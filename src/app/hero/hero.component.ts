@@ -9,5 +9,4 @@ import { Component } from '@angular/core';
 })
 export class HeroComponent {
   Title = 'contoh title';
-
 }
